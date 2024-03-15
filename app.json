@@ -1,0 +1,15 @@
+{
+    "id": "6ae8908f-f254-4ccd-8728-89cf8d019eca",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.4.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "RocketChat",
+        "homepage": "https://github.com/RocketChat/Rocket.Chat",
+        "support": "https://github.com/RocketChat/Rocket.Chat"
+    },
+    "name": "rocketchat-ai",
+    "nameSlug": "rocketchat-ai",
+    "classFile": "RocketchatAiApp.ts",
+    "description": "AI Assistant to help with understanding Rocket.Chat core codebase"
+}
